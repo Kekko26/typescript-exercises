@@ -13,3 +13,4 @@ let currency = null;
 let population = 47450795;
 let isSummer = false;
 let languages = "Spanish, English";
+
