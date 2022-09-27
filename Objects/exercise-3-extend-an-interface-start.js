@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 const countryA = {
     name: "India",
     code: "IN",
@@ -17,3 +15,4 @@ const countryC = {
     code: "ES",
     population: 47450795,
 };
+export {};

@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Add the `any` type to fix the type errors in the following code.
 let currency = { name: "Indian rupee" };
 currency.code = "THB";
@@ -20,3 +18,4 @@ function throwCountryError(message) {
     throw new Error(`Could not find country: ${message}`);
 }
 throwCountryError("Narnia");
+export {};

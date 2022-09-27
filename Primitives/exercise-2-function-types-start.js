@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Add types to this function declaration.
 function doubleThePopulation(value) {
     return value * 2;
@@ -24,3 +22,4 @@ function languagesSpoken(country, language1, language2) {
 languagesSpoken("Colombia", "Spanish", "English");
 languagesSpoken("Greece", "Greek");
 languagesSpoken("New Zealand", "English", "Māori");
+export {};

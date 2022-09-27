@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 function getPopulation() {
     return 69950850;
 }
@@ -13,3 +11,4 @@ const population = getPopulation();
 // Remove the code that is incorrect.
 // console.log(population.toUpperCase());
 console.log(population * 2);
+export {};

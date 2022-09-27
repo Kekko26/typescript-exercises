@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Add type annotations to each of these variables.
 let country = "Italy";
 let year = undefined;
@@ -13,3 +11,4 @@ let currency = null;
 let population = 47450795;
 let isSummer = false;
 let languages = "Spanish, English";
+export {};

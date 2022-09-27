@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Add a type annotation to this variable that describes the object it contains.
 const countryPopulation = {
     code: "NZ",
@@ -18,3 +16,4 @@ const currencyData = {
     code: "EUR",
     symbol: "€",
 };
+export {};

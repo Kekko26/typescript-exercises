@@ -1,8 +1,6 @@
-"use strict";
 /**
  * START: Follow the instructions below.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 const countryA = {
     name: "India",
     code: "IN",
@@ -24,3 +22,4 @@ const currencyData = {
 };
 // currencyData.name = "Gold";
 currencyData.code = "GGG";
+export {};
